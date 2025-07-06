@@ -26,19 +26,70 @@
 ## 🛠️ Languages and DevOps Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="60" width="60" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="60" width="60" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="60" width="60" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="60" width="60" style="vertical-align:middle;"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" height="40" style="vertical-align:middle;"/>
-  <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="Chef" height="40" style="vertical-align:middle;"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" height="40" style="vertical-align:middle;"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="40" style="vertical-align:middle;"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" height="40" style="vertical-align:middle;"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" style="vertical-align:middle;"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="40" style="vertical-align:middle;"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" height="40" style="vertical-align:middle;"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" height="40" style="vertical-align:middle;"/>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="60" width="60" style="vertical-align:middle;"/>
+  </a>
+  &nbsp;
+  <!-- Bash -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="60" width="60" style="vertical-align:middle;"/>
+  </a>
+  &nbsp;
+  <!-- Docker -->
+  <a href="https://docs.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="60" width="60" style="vertical-align:middle;"/>
+  </a>
+  &nbsp;
+  <!-- Kubernetes -->
+  <a href="https://kubernetes.io/docs/home/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="60" width="60" style="vertical-align:middle;"/>
+  </a>
+  &nbsp;
+  <!-- Ansible -->
+  <a href="https://docs.ansible.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" height="40" style="vertical-align:middle;"/>
+  </a>
+  &nbsp;
+  <!-- Chef -->
+  <a href="https://docs.chef.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="Chef" height="40" style="vertical-align:middle;"/>
+  </a>
+  &nbsp;
+  <!-- Terraform -->
+  <a href="https://developer.hashicorp.com/terraform/docs" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" height="40" style="vertical-align:middle;"/>
+  </a>
+  &nbsp;
+  <!-- Jenkins -->
+  <a href="https://www.jenkins.io/doc/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="40" style="vertical-align:middle;"/>
+  </a>
+  &nbsp;
+  <!-- AWS -->
+  <a href="https://docs.aws.amazon.com/ec2/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" height="40" style="vertical-align:middle;"/>
+  </a>
+  &nbsp;
+  <!-- Git -->
+  <a href="https://git-scm.com/doc" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" style="vertical-align:middle;"/>
+  </a>
+  &nbsp;
+  <!-- GitHub -->
+  <a href="https://docs.github.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="40" style="vertical-align:middle;"/>
+  </a>
+  &nbsp;
+  <!-- Prometheus -->
+  <a href="https://prometheus.io/docs/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" height="40" style="vertical-align:middle;"/>
+  </a>
+  &nbsp;
+  <!-- Grafana -->
+  <a href="https://grafana.com/docs/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" height="40" style="vertical-align:middle;"/>
+  </a>
 </p>
 
 ---
