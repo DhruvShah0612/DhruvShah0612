@@ -8,48 +8,36 @@ I'm a **DevOps Engineer** from 🇮🇳 India, passionate about automating infra
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-shah-056090215/)
 - 🐙 [GitHub](https://github.com/DhruvShah0612)
-- 📧 Email: dhruvshah0612@gmail.com
+- 📧 [Gmail](dhruvshah0612@gmail.com)
 
 ---
 
 ## 🛠️ DevOps Tools & Technologies
 
 ### 🚀 Cloud & Infrastructure
-- [AWS EC2](https://aws.amazon.com/ec2/) ☁️  
-- [Terraform](https://developer.hashicorp.com/terraform/docs) 🏗️  
-- [Linux](https://linux.org/) 🐧  
-- [Bash](https://www.gnu.org/software/bash/) 🖥️  
+[![AWS](https://img.shields.io/badge/AWS%20EC2-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/ec2/)
+[![Terraform](https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)
+[![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/doc/html/latest/)
+[![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/manual/bash.html)
 
 ### 🧩 Configuration Management
-- [Chef](https://docs.chef.io/) ⚙️  
-- [Ansible](https://docs.ansible.com/) 🧩  
+[![Chef](https://img.shields.io/badge/Chef-%23F09820?style=for-the-badge&logo=chef&logoColor=white)](https://docs.chef.io/)
+[![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://docs.ansible.com/)
 
 ### 🐳 Containerization & Orchestration
-- [Docker](https://docs.docker.com/) 🐳  
-- [Docker Compose](https://docs.docker.com/compose/) 📦  
-- [Docker Swarm](https://docs.docker.com/engine/swarm/) 🌊  
-- [Kubernetes](https://kubernetes.io/docs/home/) ☸️  
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
+[![Docker Compose](https://img.shields.io/badge/Docker--Compose-%23328CE5?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/)
 
 ### 🔁 CI/CD & VCS
-- [Jenkins](https://www.jenkins.io/doc/) 🔁  
-- [Git](https://git-scm.com/doc) 🔧  
-- [GitHub](https://docs.github.com/) 🐙  
+[![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/)
+[![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 
 ### 📊 Monitoring & Code Quality
-- [SonarQube](https://docs.sonarsource.com/) 📊  
-- [Prometheus](https://prometheus.io/docs/introduction/overview/) ⏱️  
-- [Grafana](https://grafana.com/docs/) 📈  
-- [Alertmanager](https://prometheus.io/docs/alerting/latest/alertmanager/) 🔔  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvShah0612&theme=tokyonight" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvShah0612&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+[![SonarQube](https://img.shields.io/badge/SonarQube-%2300b4cc?style=for-the-badge&logo=sonarqube&logoColor=white)](https://docs.sonarqube.org/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/docs/)
+[![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/docs/)
 
 ---
 
