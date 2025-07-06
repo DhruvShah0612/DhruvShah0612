@@ -6,7 +6,7 @@ I'm a **DevOps Engineer** from 🇮🇳 India, passionate about automating infra
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](linkedin.com/in/dhruv-shah-056090215)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-shah-056090215/)
 - 🐙 [GitHub](https://github.com/DhruvShah0612)
 - 📧 Email: dhruvshah0612@gmail.com
 
@@ -15,29 +15,31 @@ I'm a **DevOps Engineer** from 🇮🇳 India, passionate about automating infra
 ## 🛠️ DevOps Tools & Technologies
 
 ### 🚀 Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS%20EC2-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- [AWS EC2](https://aws.amazon.com/ec2/) ☁️  
+- [Terraform](https://developer.hashicorp.com/terraform/docs) 🏗️  
+- [Linux](https://linux.org/) 🐧  
+- [Bash](https://www.gnu.org/software/bash/) 🖥️  
 
 ### 🧩 Configuration Management
-![Chef](https://img.shields.io/badge/Chef-%23F09820?style=for-the-badge&logo=chef&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+- [Chef](https://docs.chef.io/) ⚙️  
+- [Ansible](https://docs.ansible.com/) 🧩  
 
 ### 🐳 Containerization & Orchestration
-![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker--Compose-%23328CE5?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- [Docker](https://docs.docker.com/) 🐳  
+- [Docker Compose](https://docs.docker.com/compose/) 📦  
+- [Docker Swarm](https://docs.docker.com/engine/swarm/) 🌊  
+- [Kubernetes](https://kubernetes.io/docs/home/) ☸️  
 
 ### 🔁 CI/CD & VCS
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+- [Jenkins](https://www.jenkins.io/doc/) 🔁  
+- [Git](https://git-scm.com/doc) 🔧  
+- [GitHub](https://docs.github.com/) 🐙  
 
 ### 📊 Monitoring & Code Quality
-![SonarQube](https://img.shields.io/badge/SonarQube-%2300b4cc?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)
+- [SonarQube](https://docs.sonarsource.com/) 📊  
+- [Prometheus](https://prometheus.io/docs/introduction/overview/) ⏱️  
+- [Grafana](https://grafana.com/docs/) 📈  
+- [Alertmanager](https://prometheus.io/docs/alerting/latest/alertmanager/) 🔔  
 
 ---
 
@@ -53,11 +55,11 @@ I'm a **DevOps Engineer** from 🇮🇳 India, passionate about automating infra
 
 ## 📌 About Me
 
-- 💻 DevOps Engineer | Linux Enthusiast | Automation Lover
-- 🔧 Skilled in provisioning, containerization, orchestration, and cloud infrastructure
-- 🧩 Experienced with infrastructure as code, monitoring, and deployment pipelines
-- 🚀 Passionate about building secure, scalable, and automated systems
-- 🌱 Always learning and staying up to date with the latest DevOps tools and trends
+- 💻 DevOps Engineer | Linux Enthusiast | Automation Lover  
+- 🔧 Skilled in provisioning, containerization, orchestration, and cloud infrastructure  
+- 🧩 Experienced with infrastructure as code, monitoring, and deployment pipelines  
+- 🚀 Passionate about building secure, scalable, and automated systems  
+- 🌱 Always learning and staying up to date with the latest DevOps tools and trends  
 
 ---
 
