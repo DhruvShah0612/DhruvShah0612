@@ -1,6 +1,11 @@
+<div align="center">
+
 # 👋 Hi, I'm Dhruv Shah
 
-I'm a **DevOps Engineer**
+**I'm a DevOps Engineer**
+
+</div>
+
 
 ---
 
@@ -15,7 +20,6 @@ I'm a **DevOps Engineer**
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" style="vertical-align:middle;"/>
   </a>
 </p>
-
 
 ---
 
@@ -36,7 +40,6 @@ I'm a **DevOps Engineer**
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" height="40" style="vertical-align:middle;"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" height="40" style="vertical-align:middle;"/>
 </p>
-
 
 ---
 
