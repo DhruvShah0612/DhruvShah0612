@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dhruv Shah
 
-I'm a **DevOps Engineer** from 🇮🇳 India, passionate about cloud infrastructure, automation, CI/CD pipelines, and containerized application delivery. I thrive on creating scalable, secure, and reliable systems using the latest DevOps technologies.
+I'm a **DevOps Engineer**
 
 ---
 
@@ -33,7 +33,6 @@ I'm a **DevOps Engineer** from 🇮🇳 India, passionate about cloud infrastruc
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" height="40" style="vertical-align:middle;"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" style="vertical-align:middle;"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="40" style="vertical-align:middle;"/>
-  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" alt="SonarQube" height="40" style="vertical-align:middle;"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" height="40" style="vertical-align:middle;"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" height="40" style="vertical-align:middle;"/>
 </p>
