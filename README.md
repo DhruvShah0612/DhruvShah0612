@@ -8,33 +8,36 @@ I'm a **DevOps Engineer** from 🇮🇳 India, passionate about cloud infrastruc
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dhruv-shah-056090215/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" style="vertical-align:middle;"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:dhruvshah0612@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" style="vertical-align:middle;"/>
   </a>
 </p>
+
 
 ---
 
 ## 🛠️ Languages and DevOps Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="40" alt="Ansible"/>
-  <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" height="40" alt="Chef"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="40" alt="Terraform"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="Jenkins"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" alt="AWS"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="40" alt="GitHub"/>
-  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" height="40" alt="SonarQube"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="40" alt="Prometheus"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="40" alt="Grafana"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="60" width="60" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="60" width="60" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="60" width="60" style="vertical-align:middle;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" height="60" width="60" style="vertical-align:middle;"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" height="40" style="vertical-align:middle;"/>
+  <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" alt="Chef" height="40" style="vertical-align:middle;"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" height="40" style="vertical-align:middle;"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="40" style="vertical-align:middle;"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" height="40" style="vertical-align:middle;"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40" style="vertical-align:middle;"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" height="40" style="vertical-align:middle;"/>
+  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" alt="SonarQube" height="40" style="vertical-align:middle;"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" height="40" style="vertical-align:middle;"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" height="40" style="vertical-align:middle;"/>
 </p>
+
 
 ---
 
