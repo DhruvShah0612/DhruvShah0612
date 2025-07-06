@@ -1,54 +1,57 @@
 # 👋 Hi, I'm Dhruv Shah
 
-I'm a **DevOps Engineer** from 🇮🇳 India, passionate about automating infrastructure, streamlining CI/CD processes, and deploying scalable systems on the cloud. I thrive in fast-paced environments where performance, security, and continuous delivery are top priorities.
+I'm a **DevOps Engineer** from 🇮🇳 India, passionate about cloud infrastructure, automation, CI/CD pipelines, and containerized application delivery. I thrive on creating scalable, secure, and reliable systems using the latest DevOps technologies.
 
 ---
 
-## 🌐 Connect with Me
+## 🔗 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/dhruv-shah-056090215/)
-- 🐙 [GitHub](https://github.com/DhruvShah0612)
-- 📧 [Gmail](dhruvshah0612@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/dhruv-shah-056090215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dhruvshah0612@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ DevOps Tools & Technologies
+## 🛠️ Languages and DevOps Tools
 
-### 🚀 Cloud & Infrastructure
-[![AWS](https://img.shields.io/badge/AWS%20EC2-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://docs.aws.amazon.com/ec2/)
-[![Terraform](https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform/docs)
-[![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/doc/html/latest/)
-[![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/manual/bash.html)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="40" alt="Ansible"/>
+  <img src="https://www.vectorlogo.zone/logos/chefio/chefio-icon.svg" height="40" alt="Chef"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="40" alt="Terraform"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="Jenkins"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" alt="AWS"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="40" alt="GitHub"/>
+  <img src="https://www.vectorlogo.zone/logos/sonarsource/sonarsource-icon.svg" height="40" alt="SonarQube"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="40" alt="Prometheus"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="40" alt="Grafana"/>
+</p>
 
-### 🧩 Configuration Management
-[![Chef](https://img.shields.io/badge/Chef-%23F09820?style=for-the-badge&logo=chef&logoColor=white)](https://docs.chef.io/)
-[![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white)](https://docs.ansible.com/)
+---
 
-### 🐳 Containerization & Orchestration
-[![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
-[![Docker Compose](https://img.shields.io/badge/Docker--Compose-%23328CE5?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/)
+## 📈 GitHub Stats
 
-### 🔁 CI/CD & VCS
-[![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/doc/)
-[![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
-
-### 📊 Monitoring & Code Quality
-[![SonarQube](https://img.shields.io/badge/SonarQube-%2300b4cc?style=for-the-badge&logo=sonarqube&logoColor=white)](https://docs.sonarqube.org/)
-[![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/docs/)
-[![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/docs/)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvShah0612&theme=tokyonight" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvShah0612&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📌 About Me
 
-- 💻 DevOps Engineer | Linux Enthusiast | Automation Lover  
-- 🔧 Skilled in provisioning, containerization, orchestration, and cloud infrastructure  
-- 🧩 Experienced with infrastructure as code, monitoring, and deployment pipelines  
-- 🚀 Passionate about building secure, scalable, and automated systems  
-- 🌱 Always learning and staying up to date with the latest DevOps tools and trends  
+Aspiring DevOps Engineer with a strong foundation in cloud infrastructure, automation, and containerization. I have hands-on experience with Jenkins for CI/CD pipelines, Git & GitHub for version control, and tools like Chef and Ansible for configuration management. My deployments are powered by Docker, Kubernetes, and Terraform on AWS EC2 instances, supported by real-time monitoring using Prometheus, Grafana, and code quality checks via SonarQube. I love reducing manual effort through scripting and IAC, and I'm always excited to learn and grow with modern DevOps tools.
 
 ---
 
-### ⭐️ Thanks for visiting my GitHub profile!
+### ⭐ Thanks for visiting my GitHub profile!
